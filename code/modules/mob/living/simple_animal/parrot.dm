@@ -82,7 +82,11 @@
 									/obj/machinery/dna_scannernew,		/obj/machinery/telecomms, \
 									/obj/machinery/nuclearbomb,			/obj/machinery/particle_accelerator, \
 									/obj/machinery/recharge_station,	/obj/machinery/smartfridge, \
-									/obj/machinery/computer)
+									/obj/machinery/computer,		/obj/structure/chair, \
+									/obj/structure/displaycase,		/obj/machinery/floodlight, \
+									/obj/machinery/dye_generator,		/obj/machinery/gameboard, \
+									/obj/machinery/iv_drip,				/obj/machinery/optable, \
+									/obj/machinery/pdapainter,		)
 
 	//Parrots are kleptomaniacs. This variable ... stores the item a parrot is holding.
 	var/obj/item/held_item = null
